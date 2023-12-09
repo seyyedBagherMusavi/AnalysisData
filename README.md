@@ -1,4 +1,4 @@
-# AnalysisData
+# DataAnalysis
 Step-by-step guide to learning and practicing Data Science
 # Insurance Data Summary Statistics
 
