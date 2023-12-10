@@ -19,4 +19,4 @@ This project aims to provide summary statistics of insurance data and visualize 
 - Postgresql
 - Jupyter
 
-![Results](./img/corr_statistic.png)
+![Page](./img/corr_statistic.png)
